@@ -27,6 +27,8 @@ SQL (Structured Query Language) is a domain-specific language used for managing 
 ## About HackerRank
 HackerRank is a competitive programming platform that offers a variety of challenges and exercises across different domains, including SQL. It allows developers and data professionals to practice and refine their SQL skills through hands-on problems. Solving SQL problems on HackerRank helps enhance your understanding of database concepts and improves your ability to write efficient and effective queries.
 
+<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXg1N3UwcTZmcTZlajlrdjY1Ym12d2R3dDNscHN3aXpxazRmOXcwaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.webp'>
+
 
 ## Repository Content
 This repository includes solutions to various Python problems from HackerRank, organized by topic:
